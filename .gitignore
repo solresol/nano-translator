@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+derived-tokpisin-vocab.xlsx
+.~lock.LibreOffice_Translations_sfx2messages_Tok Pisin.xlsx#
